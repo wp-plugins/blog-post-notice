@@ -1,0 +1,23 @@
+#blog-post-notice {
+  background-color: #fff6bf;
+  border: 1px solid #ffd324;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  margin-bottom: 18px;
+  margin: 8px 0 8px 0;
+  padding: 12px;
+  color: #444;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+}
+
+span.notice-type {
+  padding: 0 7.5px;
+  margin-right: 10px;
+  font-style: italic;
+  font-weight: bolder;
+  background-color: #ffd324;
+  border-radius: 10px;
+}

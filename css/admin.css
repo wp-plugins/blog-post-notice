@@ -1,0 +1,18 @@
+textarea[name="blog-post-notice-editor"] {
+	width: 100%;
+}
+
+#blog-post-notice-preview {
+	background-color: #fff6bf;
+  border: 1px solid #ffd324;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	margin-bottom: 18px;
+	margin: 8px 0 8px 0;
+	padding: 12px;
+	color: #444;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	font-family: "Open Sans", sans-serif;
+	font-size: 12px;
+}
